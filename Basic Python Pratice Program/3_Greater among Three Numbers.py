@@ -5,7 +5,7 @@ def bigNum(n1,n2,n3):
         print(n2,",the second, is the greatest.")
     else:
         print(n3,",the third, is the greatest.")
-n1=int(input("Enter first number: "))
-n2=int(input("Enter second number: "))
-n3=int(input("Enter third number: "))
+n1=int(input("Enter the first number: "))
+n2=int(input("Enter the second number: "))
+n3=int(input("Enter the third number: "))
 bigNum(n1,n2,n3)
