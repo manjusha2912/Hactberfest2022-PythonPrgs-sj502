@@ -5,5 +5,5 @@ def mulTable(n,l):
         arr.append(x)
     print(arr)
 n=int(input("Enter number for table: "))
-l=int(input("Enter last number to be mutiplied: "))
+l=int(input("Enter last number to be in the table: "))
 mulTable(n,l)
